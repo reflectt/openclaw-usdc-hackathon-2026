@@ -20,7 +20,7 @@
 - **Note:** Previous session's type fixes were successful
 
 ### 2. GitHub Repository Setup ✅
-- **Repository Created:** https://github.com/itskai-dev/openclaw-usdc-hackathon-2026
+- **Repository Created:** https://github.com/reflectt/openclaw-usdc-hackathon-2026
 - **Actions Completed:**
   - ✅ Created public repository using gh CLI
   - ✅ Pushed all code to GitHub
@@ -189,7 +189,7 @@ npm run agent-a -- demo
 
 ## 🔗 Important Links
 
-- **GitHub Repository:** https://github.com/itskai-dev/openclaw-usdc-hackathon-2026
+- **GitHub Repository:** https://github.com/reflectt/openclaw-usdc-hackathon-2026
 - **Agent A Address:** 0x36dF5D06BF6fcF370BA07eB600427f790986999E
 - **Agent B Address:** 0xC379Bf86Cd7B79A5C8c98E8E05fe06498C5b18Ed
 - **Base Sepolia RPC:** https://sepolia.base.org
