@@ -17,6 +17,20 @@ If you only have 10 minutes, do this in order:
 - **Demo / code walkthrough video:** <PASTE_VIDEO_URL>
 - **Submission confirmation / public page (after submit):** <PASTE_URL_IF_ANY>
 
+**Where to paste the video URL:**
+- Update the placeholder above (`<PASTE_VIDEO_URL>`)
+- Update the “Video URL” field in the Copy/Paste section below
+- (Recommended) Add it to `README.md` once uploaded
+
+---
+
+## If you can’t do live chain faucets (recommended fallback)
+
+That’s OK — use **code-walkthrough mode** instead of a live on-chain demo:
+- Walk through diagrams + x402 routes/middleware + Agent A client code
+- Show the local discovery flow (`npm run agent-a -- discover`)
+- Reference the deterministic transcript: `assets/terminal/demo-transcript.md`
+
 ---
 
 ## Screenshots checklist (upload into repo first)
