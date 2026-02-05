@@ -59,6 +59,8 @@ When done:
 
 ## Video checklist (Ryan-owned, but keep it here)
 
+> Note: A **screen recording only** (no facecam / no human on video) is fine for code-walkthrough mode.
+
 Primary script:
 - `CODE-WALKTHROUGH-VIDEO-SCRIPT.md`
 
