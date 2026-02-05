@@ -22,6 +22,24 @@ This project demonstrates **agent-to-agent economic transactions** where AI agen
 
 ---
 
+## ✅ Submission
+
+Everything needed to submit (minus the actual video recording) is packaged in-repo.
+
+**Start here (copy/paste submit):**
+- `SUBMIT-NOW.md` — one page with final steps + form fields
+
+**Core submission docs:**
+- `SUBMISSION.md` — full submission guide
+- `SUBMISSION-CHECKLIST.md` — quick checklist
+- `RELEASE.md` — GitHub Release draft checklist + suggested tag
+
+**Assets you still need to produce (human):**
+- `CODE-WALKTHROUGH-VIDEO-SCRIPT.md` — record the walkthrough; paste the link into README + `SUBMIT-NOW.md`
+- `LOCAL-DEMO-SCREENSHOT-PLAN.md` — exact screenshot list (place images in `assets/screenshots/`)
+
+---
+
 ## 🏗️ Architecture
 
 ### System Overview
@@ -307,7 +325,7 @@ This verifies:
 
 ## 🎥 Demo Video
 
-**Watch the full demo:** [Link to demo video]
+- **Code walkthrough video:** <PASTE_VIDEO_URL>
 
 The video demonstrates:
 1. Starting Agent B (service provider)
@@ -379,9 +397,18 @@ This creates an **autonomous agent economy** where agents are economic actors, n
 
 ## 📖 Documentation
 
-- **Architecture:** See `docs/ARCHITECTURE.md` for technical design details
-- **Payment Flow:** See `docs/PAYMENT-FLOW.md` for step-by-step payment sequence
-- **API Reference:** See `docs/API.md` for endpoint specifications
+**Core:**
+- `START-HERE.md` — fastest path to run locally
+- `QUICK-START-GUIDE.md` — step-by-step setup + demo commands
+- `docs/ARCHITECTURE.md` — technical design
+- `docs/PAYMENT-FLOW.md` — step-by-step payment sequence
+
+**Submission package:**
+- `SUBMIT-NOW.md` — one-page copy/paste submission
+- `SUBMISSION.md` — full submission guide
+- `SUBMISSION-CHECKLIST.md` — checklist
+- `CODE-WALKTHROUGH-VIDEO-SCRIPT.md` — walkthrough script
+- `LOCAL-DEMO-SCREENSHOT-PLAN.md` — exact screenshot plan
 
 ---
 
