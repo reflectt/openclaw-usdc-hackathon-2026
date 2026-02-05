@@ -5,7 +5,7 @@
 **Deadline:** February 8, 2026 12:00 PM PST  
 **Current Date:** February 5, 2026 08:04 PST  
 **Status:** ✅ CODE COMPLETE - CODE WALKTHROUGH SUBMISSION APPROACH  
-**GitHub:** https://github.com/itskai-dev/openclaw-usdc-hackathon-2026
+**GitHub:** https://github.com/reflectt/openclaw-usdc-hackathon-2026
 
 ---
 
